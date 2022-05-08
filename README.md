@@ -1,0 +1,15 @@
+# codemicro/st
+
+*My personal fork of the `st` terminal by the [Suckless project](https://suckless.org)*
+
+---
+
+Based on version 0.8.5
+
+Patches/alterations:
+* [scrollback](http://st.suckless.org/patches/scrollback/)
+* [delkey](http://st.suckless.org/patches/delkey/)
+* [gruvbox](http://st.suckless.org/patches/gruvbox/)
+* [copyurl](http://st.suckless.org/patches/copyurl/)
+* Uses JetBrains Mono as a font
+* Defaults to `/usr/bin/bash` as a shell instead of `/bin/sh`
