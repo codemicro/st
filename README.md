@@ -1,6 +1,6 @@
 # codemicro/st
 
-*My personal fork of the `st` terminal by the [Suckless project](https://suckless.org)*
+*My personal fork of the [`st` terminal](https://st.suckless.org) by the [Suckless project](https://suckless.org)*
 
 ---
 
