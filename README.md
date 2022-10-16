@@ -4,7 +4,7 @@
 
 ---
 
-Based on version 0.8.5
+Based on version 0.9
 
 Patches/alterations:
 * [scrollback](http://st.suckless.org/patches/scrollback/)
